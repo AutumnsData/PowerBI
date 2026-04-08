@@ -7,15 +7,20 @@ This file contains all the key DAX measures used in the project, with explanatio
 ```dax
 Total Sales = SUM(FactSales[SalesAmount])
 ```
+
 Calculates the total revenue across all sales. Simple aggregation used as the foundation for almost every other measure.
+
 ```dax
 Total Quantity = SUM(FactSales[Quantity])
 ```
+
 Total number of units sold. Useful for volume analysis alongside revenue.
+
 ```dax
 Avg Order Value = 
     DIVIDE([Total Sales], DISTINCTCOUNT(FactSales[OrderID]))
 ```
+
 Average revenue per order. Helps understand typical order size and customer behavior.
 
 ## Time Intelligence Measures
