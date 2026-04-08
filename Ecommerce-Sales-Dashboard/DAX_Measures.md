@@ -23,6 +23,7 @@ Avg Order Value =
 Average revenue per order.
 Helps understand typical order size and customer behavior.
 
+### Year-to-Date sales total:
 ```dax
 YTD Sales = TOTALYTD([Total Sales], DimDate[Date])
 ```
