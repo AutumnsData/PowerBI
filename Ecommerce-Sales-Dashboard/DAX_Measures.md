@@ -26,6 +26,6 @@ Helps understand typical order size and customer behavior.
 ```dax
 YTD Sales = TOTALYTD([Total Sales], DimDate[Date])
 ```
-Year-to-Date sales total.
-Resets every January 1st. Critical for tracking annual performance.
+ - Year-to-Date sales total.
+ - Resets every January 1st. Critical for tracking annual performance.
 
