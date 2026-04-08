@@ -68,3 +68,14 @@ VAR Multiplier = [Target Multiplier Value]
 RETURN
     BaseSales * Multiplier
 ```
+
+## Key Learnings & Design Decisions
+
+- All time intelligence measures rely on a properly marked Date Table and a relationship based on a true Date data type column (not the integer DateKey).
+- VAR statements are used heavily to improve readability and performance.
+- Measures are designed to be reusable across multiple visuals and pages.
+- The What-If parameter was added manually as a slicer to give full control over placement and formatting.
+
+These measures form the analytical core of the dashboard. They enable both static reporting and dynamic scenario planning, directly supporting business decisions around inventory, regional performance, and growth targets.
+Last updated: April 2026
+
