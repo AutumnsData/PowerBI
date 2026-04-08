@@ -56,3 +56,15 @@ RETURN
 Running Total Sales = 
     CALCULATE([Total Sales], DATESYTD(DimDate[Date]))
 ```
+
+## What-If Scenario Measure
+- Dynamically adjusts base sales based on the Target Multiplier What-If parameter.
+- Allows stakeholders to simulate different performance scenarios (e.g., 110% or 80% of current sales).
+- Demonstrates interactive "what-if" analysis for forecasting and target setting.
+```dax
+Adjusted Target Sales = 
+VAR BaseSales = [Total Sales]
+VAR Multiplier = [Target Multiplier Value]
+RETURN
+    BaseSales * Multiplier
+```
