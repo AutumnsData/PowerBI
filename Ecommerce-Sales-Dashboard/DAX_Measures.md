@@ -77,5 +77,6 @@ RETURN
 - The What-If parameter was added manually as a slicer to give full control over placement and formatting.
 
 These measures form the analytical core of the dashboard. They enable both static reporting and dynamic scenario planning, directly supporting business decisions around inventory, regional performance, and growth targets.
+
 Last updated: April 2026
 
