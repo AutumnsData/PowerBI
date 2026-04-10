@@ -1,0 +1,17 @@
+# Power BI files
+*.pbix
+*.pbip
+
+# Temporary / cache files
+*.log
+*.tmp
+~*
+
+# Large data files (keep only small samples)
+data/*.csv
+data/*.xlsx
+!data/*.small.csv   # if you have tiny samples
+
+# OS files
+.DS_Store
+Thumbs.db
