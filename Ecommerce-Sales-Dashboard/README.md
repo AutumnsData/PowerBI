@@ -41,14 +41,6 @@ Ecommerce-Sales-Dashboard/
 1. Download and open the `.pbip` file in **Power BI Desktop** (free).
 2. Tableau version: [To Be Made]
 
-## Sample Insights
-(You'll fill this in once the dashboard is built – here's a template based on typical findings)
-
-- Overall sales showed strong YoY growth in Q4, driven primarily by one high-performing category.
-- Region X consistently lagged in MoM growth – opportunity to adjust marketing or inventory allocation.
-- Top 5 products accounted for over 40% of total revenue; running totals highlight seasonal spikes.
-- Recommendation: Increase stock in high-growth categories by X% ahead of peak seasons to avoid lost sales.
-
 ## What I Learned / Skills Demonstrated
 - Building a proper star schema and marking a Date table for time intelligence
 - Writing reusable, performant DAX measures using VAR and CALCULATE
