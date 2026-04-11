@@ -33,7 +33,7 @@ Ecommerce-Sales-Dashboard/
 ├── screenshots/           # Dashboard page images
 ├── DAX_Measures.md        # Key DAX code with explanations
 ├── insights.md            # Business insights and recommendations
-├── Ecommerce_Sales_Report.pbip   # Main Power BI project file
+├── Ecommerce_Sales_Report-2.pbip   # Main Power BI project file
 ├── Tableau_Version/       # Packaged .twbx workbook + related files
 └── README.md
 
