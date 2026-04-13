@@ -25,11 +25,11 @@ The dashboard helps answer key business questions such as:
 
 ### Repository Structure
 Ecommerce-Sales-Dashboard/
-├── data/                     # Sample data files
-├── screenshots/              # Process and final visuals
-├── DAX_Measures.md           # Key DAX measures with explanations
-├── insights.md               # Business insights from the dashboard
-├── Ecommerce-Sales-Dashboard-2.pbix   # Main Power BI file
+├── data/                     # Sample data files  
+├── screenshots/              # Process and final visuals  
+├── DAX_Measures.md           # Key DAX measures with explanations  
+├── insights.md               # Business insights from the dashboard  
+├── Ecommerce-Sales-Dashboard-2.pbix   # Main Power BI file  
 └── README.md
 
 ### How to View
