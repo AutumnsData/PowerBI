@@ -23,36 +23,6 @@ The dashboard helps answer key business questions such as:
 - **DAX** – Running totals, YTD, MoM %, YoY %, dynamic adjusted targets
 - **GitHub** – Full process documentation with screenshots
 
-### Repository Structure
-Ecommerce-Sales-Dashboard/
-├── data/                     # Sample data files  
-├── screenshots/              # Process and final visuals  
-├── DAX_Measures.md           # Key DAX measures with explanations  
-├── insights.md               # Business insights from the dashboard  
-├── Ecommerce-Sales-Dashboard-2.pbix   # Main Power BI file  
-└── README.md
-
-### How to View
-1. Open the `.pbix` file in Power BI Desktop (free).
-2. Use the slicers and What-If parameter to explore interactivity.
-3. All pages are fully connected via filters and cross-highlighting.
-
-### Key Insights
-
-
-### What I Learned
-- Built a proper star schema with a marked Date table to enable reliable time intelligence.
-- Used What-If parameters and running totals to create dynamic “what-if” target scenarios.
-- Applied conditional formatting and Top N filters to make insights scannable.
-- Balanced interactivity with clean design across four connected pages.
-
-### Key Skills Demonstrated
-- Star schema data modeling with marked Date table
-- Advanced DAX (running totals, YTD, MoM %, YoY %, What-If parameters)
-- Conditional formatting and Top N filtering
-- Interactive visuals with cross-filtering and report page tooltips
-- Geographic analysis using Filled Map and Treemap
-
 # Interactive Power BI Dashboard
 
 Analyzing multi-year sales data to track performance, set targets, optimize inventory, and identify regional opportunities.
@@ -84,6 +54,26 @@ Filled map showing Total Sales by country + supporting treemap by country and re
 - [Running Total at multiplier 1.5](https://github.com/AutumnsData/PowerBI/blob/d6207c0f6f0bdae0572439639d9d1b636bc0f7ab/Ecommerce-Sales-Dashboard/screenshots/Executive%20Overview%20page_Target%20Multiplier%201.5.jpg)
 - [Regional Performance Map - France](https://github.com/AutumnsData/PowerBI/blob/d6207c0f6f0bdae0572439639d9d1b636bc0f7ab/Ecommerce-Sales-Dashboard/screenshots/Regional%20Performance%20Map%20-%20France.jpg)
 
+### Key Features & Skills Demonstrated
+- Star schema data modeling with marked Date table
+- Advanced DAX (running totals, YTD, MoM %, YoY %, What-If parameters)
+- Conditional formatting, Top N filtering, and cross-visual interactions
+- Geographic analysis using Filled Map and Treemap
+- Interactive tooltips and slicers
+
+### Repository Structure
+- `data/` – Sample data files
+- `screenshots/` – Process and final visuals
+- `DAX_Measures.md` – Key DAX measures with explanations
+- `insights.md` – Business insights from the dashboard
+- `Ecommerce-Sales-Dashboard-2.pbix` – Main Power BI file
+
+### How to View
+1. Open the `.pbix` file in Power BI Desktop (free).
+2. Use the slicers and What-If parameter to explore interactivity.
+3. All pages are fully connected via filters and cross-highlighting.
+
+### Key Insights
 
 ### About Me
 Autumn Bilbao  
