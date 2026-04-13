@@ -1,67 +1,65 @@
 # E-Commerce Sales Performance Dashboard
 
-## Project Overview
-This project builds an interactive dashboard to analyze e-commerce sales performance across multiple years. The goal was to turn raw sales data into clear, actionable insights for tracking revenue trends, comparing performance over time, spotting strong and weak product categories, and supporting decisions around inventory and regional focus.
+**Power BI Dashboard** – Built to analyze multi-year sales data and support data-driven decisions around performance tracking, target setting, inventory planning, and regional focus.
 
-I used the **Complete DAX Practice Dataset** from Kaggle (multi-year sales with customers, products, geographies, and dates). This let me practice realistic business scenarios similar to the sales trend work I've done with Shopify data and the category analysis from my earlier movie rental project.
+### Project Overview
+This interactive dashboard explores sales trends across categories, products, time periods, and regions using a realistic e-commerce dataset. It demonstrates end-to-end skills in data modeling, DAX calculations, interactivity, and business storytelling.
 
-The dashboard answers questions like:
-- How are sales growing month-over-month and year-over-year?
-- Which categories and regions are driving performance?
-- What are the running totals and seasonal patterns?
+The dashboard helps answer key business questions such as:
+- Which categories and products are driving revenue?
+- How are sales accumulating over time, and what happens if we need to hit higher targets?
+- Which regions/countries are performing best?
+- Where should we focus inventory or marketing efforts?
 
-I also rebuilt key visuals in Tableau to compare the two tools side-by-side.
+### Key Features
+- **Executive Overview**: KPI cards, category donut, and monthly trend with What-If target adjustment
+- **Time Analysis**: Yearly matrix with conditional formatting + running total area chart vs adjusted target
+- **Product Deep Dive**: Top 10 SubCategories by sales + Quantity vs Sales scatter with tooltips
+- **Regional Performance**: Filled map colored by Total Sales + supporting treemap by country and region
 
-## Key Features
-- Star schema data model with a dedicated Date table
-- Advanced DAX measures for time intelligence (YTD, YoY, MoM growth, running totals)
-- Interactive slicers for year, month, category, and region
-- KPI cards, trend lines, regional maps/treemaps, top product rankings, and drill-through pages
-- Dynamic titles and what-if parameters for scenario testing
-- Clean, professional layout with conditional formatting
-
-## Tools & Technologies
-- **Power BI Desktop** – Data modeling, DAX calculations, dashboard creation
+### Tools & Technologies
+- **Power BI Desktop** – Star schema modeling, DAX time intelligence, conditional formatting, What-If parameters, report page tooltips
 - **Power Query** – Data cleaning and transformation
-- **DAX** – Time intelligence, variables (VAR), CALCULATE, ranking, and dynamic measures
-- **Tableau Desktop/Public** – Rebuilt select visuals for comparison (LODs, table calculations, parameters)
-- GitHub – Version control with .pbip format for better tracking of changes
+- **DAX** – Running totals, YTD, MoM %, YoY %, dynamic adjusted targets
+- **GitHub** – Full process documentation with screenshots
 
-## Repository Structure
+### Repository Structure
 Ecommerce-Sales-Dashboard/
-├── data/                  # Raw and cleaned files (small samples only)
-├── screenshots/           # Dashboard page images
-├── DAX_Measures.md        # Key DAX code with explanations
-├── insights.md            # Business insights and recommendations
-├── Ecommerce_Sales_Report-2.pbip   # Main Power BI project file
-├── Tableau_Version/       # Packaged .twbx workbook + related files
+├── data/                     # Sample data files
+├── screenshots/              # Process and final visuals
+├── DAX_Measures.md           # Key DAX measures with explanations
+├── insights.md               # Business insights from the dashboard
+├── Ecommerce-Sales-Dashboard-2.pbix   # Main Power BI file
 └── README.md
 
-## How to View the Dashboard
-1. Download and open the `.pbip` file in **Power BI Desktop** (free).
-2. Tableau version: [To Be Made]
+### How to View
+1. Open the `.pbix` file in Power BI Desktop (free).
+2. Use the slicers and What-If parameter to explore interactivity.
+3. All pages are fully connected via filters and cross-highlighting.
 
-## What I Learned / Skills Demonstrated
-- Building a proper star schema and marking a Date table for time intelligence
-- Writing reusable, performant DAX measures using VAR and CALCULATE
-- Creating dynamic, user-friendly dashboards with slicers, bookmarks, and drill-through
-- Comparing Power BI (model-first approach) vs Tableau (visual-first with LODs)
-- Documenting work clearly for technical and non-technical audiences
+### Key Insights
+(You'll add 3–5 real insights here once you review the final dashboard — examples below)
+- Strong mid-year sales peaks suggest seasonal inventory planning opportunities.
+- Electronics and Furniture consistently drive the highest revenue.
+- Running totals show clear annual resets with strong recovery in Q3/Q4 of 2024.
+- Certain regions show significantly higher sales concentration — potential focus areas for expansion.
 
-This project builds directly on my WGU coursework (movie rental automation in SQL, YouTube tags analysis in Tableau, data wrangling in Python) and my hands-on experience maintaining product listings and sales trends on Shopify.
+### What I Learned
+- Built a proper star schema with a marked Date table to enable reliable time intelligence.
+- Used What-If parameters and running totals to create dynamic “what-if” target scenarios.
+- Applied conditional formatting and Top N filters to make insights scannable.
+- Balanced interactivity with clean design across four connected pages.
 
-## Future Improvements
+### Future Improvements
 - Add forecasting visuals
 - Implement row-level security
 - Connect to a live data source
-- Expand with customer segmentation
+- Expand with customer segmentation analysis
 
-## About Me
-Autumn Bilbao – Data Analyst  
-B.S. Data Management & Analysis, Western Governors University (Nov 2023)  
-Experience in process automation, cross-functional collaboration, and turning data into decisions.
-
-Feel free to reach out if you have questions or suggestions!
+### About Me
+Autumn Bilbao  
+B.S. Data Management & Analysis – Western Governors University (2023)  
+Passionate about turning raw data into actionable business insights.
 
 ---
 
