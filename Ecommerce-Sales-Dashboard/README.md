@@ -62,29 +62,27 @@ Analyzing multi-year sales data to track performance, set targets, optimize inve
 #### 1. Executive Overview
 KPI cards, category breakdown donut, and monthly trend with What-If target adjustment.
 
-![Executive Overview](screenshots/Executive Overview page_Target Multiplier 1.jpg)
+![Executive Overview](https://github.com/AutumnsData/PowerBI/blob/d6207c0f6f0bdae0572439639d9d1b636bc0f7ab/Ecommerce-Sales-Dashboard/screenshots/Executive%20Overview%20page_Target%20Multiplier%201.5.jpg)
 
 #### 2. Time Analysis
 Yearly performance matrix with conditional formatting + running total vs adjusted target chart.
 
-![Time Analysis](screenshots/Time Analysis page.jpg)
+![Time Analysis](https://github.com/AutumnsData/PowerBI/blob/d6207c0f6f0bdae0572439639d9d1b636bc0f7ab/Ecommerce-Sales-Dashboard/screenshots/Time%20Analysis%20page.jpg)
 
 #### 3. Product Deep Dive
 Top 10 SubCategories by Total Sales and Quantity vs Sales scatter with interactive tooltips.
 
-![Product Deep Dive](screenshots/Product Deep Dive.jpg)
+![Product Deep Dive](https://github.com/AutumnsData/PowerBI/blob/d6207c0f6f0bdae0572439639d9d1b636bc0f7ab/Ecommerce-Sales-Dashboard/screenshots/Product%20Deep%20Dive.jpg)
 
 #### 4. Regional Performance
 Filled map showing Total Sales by country + supporting treemap by country and region.
 
-![Regional Performance](screenshots/Regional Performance.jpg)
+![Regional Performance](https://github.com/AutumnsData/PowerBI/blob/d6207c0f6f0bdae0572439639d9d1b636bc0f7ab/Ecommerce-Sales-Dashboard/screenshots/Regional%20Performance.jpg)
 
 ### Additional Screenshots
-- [Running Total at multiplier 1.0](screenshots/Running Total Sales vs Adjusted Target at multiplier 1.0.jpg)
-- [Running Total at multiplier 1.5](screenshots/Running Total Sales vs Adjusted Target at multiplier 1.5.jpg)
-- [Regional Performance Map - France](screenshots/Regional Performance Map - France.jpg)
-
-
+- [Running Total at multiplier 1.0](https://github.com/AutumnsData/PowerBI/blob/d6207c0f6f0bdae0572439639d9d1b636bc0f7ab/Ecommerce-Sales-Dashboard/screenshots/Executive%20Overview%20page_Target%20Multiplier%201.jpg)
+- [Running Total at multiplier 1.5](https://github.com/AutumnsData/PowerBI/blob/d6207c0f6f0bdae0572439639d9d1b636bc0f7ab/Ecommerce-Sales-Dashboard/screenshots/Executive%20Overview%20page_Target%20Multiplier%201.5.jpg)
+- [Regional Performance Map - France](https://github.com/AutumnsData/PowerBI/blob/d6207c0f6f0bdae0572439639d9d1b636bc0f7ab/Ecommerce-Sales-Dashboard/screenshots/Regional%20Performance%20Map%20-%20France.jpg)
 
 
 ### About Me
