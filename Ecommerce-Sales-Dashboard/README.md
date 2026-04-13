@@ -69,8 +69,8 @@ Filled map showing Total Sales by country + supporting treemap by country and re
 
 ### Key Insights
 - As shown by the graphs on the Product Deep Dive page, the key categories include Clothing and Acessories. The top performers under clothing include jackets and pants. On average, the order value for jackets was about $1.01k, while the average order value for pants was about $780. The top performers under Accessories include headsets at an average order value of $816 and keyboards with an average order value of $693.
-- How are sales accumulating over time, and what happens if we need to hit higher targets?
-- Which regions/countries are performing best?
+- How are sales accumulating over time, and what happens if we need to hit higher targets? Sales accumulate over each year
+- Which regions/countries are performing best? According to the graphs and map on the Regional Performance tab, the regions and countries that perform the best include South & Central India, North & South Saudi Arabia, and South & North UK. 
 - Where should we focus inventory or marketing efforts?
 
 ### About Me
