@@ -38,11 +38,7 @@ Ecommerce-Sales-Dashboard/
 3. All pages are fully connected via filters and cross-highlighting.
 
 ### Key Insights
-(You'll add 3–5 real insights here once you review the final dashboard — examples below)
-- Strong mid-year sales peaks suggest seasonal inventory planning opportunities.
-- Electronics and Furniture consistently drive the highest revenue.
-- Running totals show clear annual resets with strong recovery in Q3/Q4 of 2024.
-- Certain regions show significantly higher sales concentration — potential focus areas for expansion.
+
 
 ### What I Learned
 - Built a proper star schema with a marked Date table to enable reliable time intelligence.
@@ -50,11 +46,46 @@ Ecommerce-Sales-Dashboard/
 - Applied conditional formatting and Top N filters to make insights scannable.
 - Balanced interactivity with clean design across four connected pages.
 
-### Future Improvements
-- Add forecasting visuals
-- Implement row-level security
-- Connect to a live data source
-- Expand with customer segmentation analysis
+### Key Skills Demonstrated
+- Star schema data modeling with marked Date table
+- Advanced DAX (running totals, YTD, MoM %, YoY %, What-If parameters)
+- Conditional formatting and Top N filtering
+- Interactive visuals with cross-filtering and report page tooltips
+- Geographic analysis using Filled Map and Treemap
+
+# Interactive Power BI Dashboard
+
+Analyzing multi-year sales data to track performance, set targets, optimize inventory, and identify regional opportunities.
+
+### Dashboard Pages
+
+#### 1. Executive Overview
+KPI cards, category breakdown donut, and monthly trend with What-If target adjustment.
+
+![Executive Overview](screenshots/Executive Overview page_Target Multiplier 1.jpg)
+
+#### 2. Time Analysis
+Yearly performance matrix with conditional formatting + running total vs adjusted target chart.
+
+![Time Analysis](screenshots/Time Analysis page.jpg)
+
+#### 3. Product Deep Dive
+Top 10 SubCategories by Total Sales and Quantity vs Sales scatter with interactive tooltips.
+
+![Product Deep Dive](screenshots/Product Deep Dive.jpg)
+
+#### 4. Regional Performance
+Filled map showing Total Sales by country + supporting treemap by country and region.
+
+![Regional Performance](screenshots/Regional Performance.jpg)
+
+### Additional Screenshots
+- [Running Total at multiplier 1.0](screenshots/Running Total Sales vs Adjusted Target at multiplier 1.0.jpg)
+- [Running Total at multiplier 1.5](screenshots/Running Total Sales vs Adjusted Target at multiplier 1.5.jpg)
+- [Regional Performance Map - France](screenshots/Regional Performance Map - France.jpg)
+
+
+
 
 ### About Me
 Autumn Bilbao  
