@@ -11,12 +11,6 @@ The dashboard helps answer key business questions such as:
 - Which regions/countries are performing best?
 - Where should we focus inventory or marketing efforts?
 
-### Key Features
-- **Executive Overview**: KPI cards, category donut, and monthly trend with What-If target adjustment
-- **Time Analysis**: Yearly matrix with conditional formatting + running total area chart vs adjusted target
-- **Product Deep Dive**: Top 10 SubCategories by sales + Quantity vs Sales scatter with tooltips
-- **Regional Performance**: Filled map colored by Total Sales + supporting treemap by country and region
-
 ### Tools & Technologies
 - **Power BI Desktop** – Star schema modeling, DAX time intelligence, conditional formatting, What-If parameters, report page tooltips
 - **Power Query** – Data cleaning and transformation
@@ -74,6 +68,10 @@ Filled map showing Total Sales by country + supporting treemap by country and re
 3. All pages are fully connected via filters and cross-highlighting.
 
 ### Key Insights
+- As shown by the graphs on the Product Deep Dive page, the key categories include Clothing and Acessories. The top performers under clothing include jackets and pants. On average, the order value for jackets was about $1.01k, while the average order value for pants was about $780. The top performers under Accessories include headsets at an average order value of $816 and keyboards with an average order value of $693.
+- How are sales accumulating over time, and what happens if we need to hit higher targets?
+- Which regions/countries are performing best?
+- Where should we focus inventory or marketing efforts?
 
 ### About Me
 Autumn Bilbao  
