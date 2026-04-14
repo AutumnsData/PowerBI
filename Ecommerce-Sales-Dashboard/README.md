@@ -36,7 +36,7 @@ Yearly performance matrix with conditional formatting + running total vs adjuste
 #### 3. Product Deep Dive
 Top 10 SubCategories by Total Sales and Quantity vs Sales scatter with interactive tooltips.
 
-![Product Deep Dive](https://github.com/AutumnsData/PowerBI/blob/d6207c0f6f0bdae0572439639d9d1b636bc0f7ab/Ecommerce-Sales-Dashboard/screenshots/Product%20Deep%20Dive.jpg)
+![Product Deep Dive](https://github.com/AutumnsData/PowerBI/blob/1fa5a5039fe15b9272aab8307fb6afb4a634d42d/Ecommerce-Sales-Dashboard/screenshots/Product%20Deep%20Dive.jpg)
 
 #### 4. Regional Performance
 Filled map showing Total Sales by country + supporting treemap by country and region.
