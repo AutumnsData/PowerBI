@@ -41,7 +41,7 @@ Top 10 SubCategories by Total Sales and Quantity vs Sales scatter with interacti
 #### 4. Regional Performance
 Filled map showing Total Sales by country + supporting treemap by country and region.
 
-![Regional Performance](https://github.com/AutumnsData/PowerBI/blob/d6207c0f6f0bdae0572439639d9d1b636bc0f7ab/Ecommerce-Sales-Dashboard/screenshots/Regional%20Performance.jpg)
+![Regional Performance](https://github.com/AutumnsData/PowerBI/blob/78ee763d37d61812e2d245c801c6db6d73655fc7/Ecommerce-Sales-Dashboard/screenshots/Regional%20Performance%20Map%20-%20Germany.jpg)
 
 ### Additional Screenshots
 - [Running Total at multiplier 1.0](https://github.com/AutumnsData/PowerBI/blob/d6207c0f6f0bdae0572439639d9d1b636bc0f7ab/Ecommerce-Sales-Dashboard/screenshots/Executive%20Overview%20page_Target%20Multiplier%201.jpg)
