@@ -76,7 +76,8 @@ If the business wants to aim for 50% higher sales, I can slide the Target Multip
 For example, in May 2024 the tooltip shows we are already about $2.12 million behind the 1.5x stretch target for the year so far. At that point we had only reached 67% of where we needed to be. This means the business would need significantly stronger sales in the remaining months of 2024 to still hit the full-year stretch goal.
 
 - Which regions/countries are performing best? Where should we focus inventory or marketing efforts?
-- According to the graphs and map on the Regional Performance tab, the regions and countries that perform the best include South & Central India, North & South Saudi Arabia, and South & North UK. This indicates that there the business's products may be popular in these regions, while also showing that there may be room to grow in Germany, North America, Egypt, and France. As such, it may be advisable to improve marketing in the regions where there is room to grow, while inventory could likely be expanded in areas where the business's products are already popular.
+- The Regional Performance map shows countries with the highest sales performance in purple, while the countries with the lowest sales performance are in light blue. When hovering over these countries, the tooltip shows the sales performance in each region. As such, it can be seen that the regions with the highest sales performance include South & Central India, North & South Saudia Arabia, and the South & North UK. It may be beneficial to focus inventory efforts in these areas.
+- The regions with the fewest sales include Germany, North America, Egypt,and France. As such, it may be advisable to improve marketing in these regions so that sales can be expanded.
 
 
 ### About Me
