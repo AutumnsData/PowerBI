@@ -69,9 +69,13 @@ Filled map showing Total Sales by country + supporting treemap by country and re
 
 ### Key Insights
 - As shown by the graphs on the Product Deep Dive page, the key categories include Clothing and Acessories. The top performers under clothing include jackets and pants. On average, the order value for jackets was about $1.01k, while the average order value for pants was about $780. The top performers under Accessories include headsets at an average order value of $816 and keyboards with an average order value of $693.
-- How are sales accumulating over time, and what happens if we need to hit higher targets? Sales accumulate over each year
-- Which regions/countries are performing best? According to the graphs and map on the Regional Performance tab, the regions and countries that perform the best include South & Central India, North & South Saudi Arabia, and South & North UK. 
-- Where should we focus inventory or marketing efforts?
+
+- How are sales accumulating over time, and what happens if we need to hit higher targets?
+- The graph on the Time Analysis page shows the Running Total Sales throughout the year on a month by month basis. With running totals starting over in January, this indicates that the business calculates the running total on a yearly basis, rather than a rolling 12-month basis. Adjusting the Target Multiplier by 1.5 would indicate that the business would like to increase sales by 50%. When the Target Multiplier is set to 1.5, the actual running sales can be seen in blue, while the adjusted target sales can be seen in purple and the cumulative difference between the two can be seen in Orange. As an example, in May of 2024, the graph indicates that sales would have to increase by about $2.12m in order to reach the target and the business met about 66.67% of that target. This means that the business would have to significantly increase their sales in order to meet this target.
+
+- Which regions/countries are performing best? Where should we focus inventory or marketing efforts?
+- According to the graphs and map on the Regional Performance tab, the regions and countries that perform the best include South & Central India, North & South Saudi Arabia, and South & North UK. This indicates that there the business's products may be popular in these regions, while also showing that there may be room to grow in all North American Regions, Egypt, and France. As such, it may be advisable to improve marketing in the regions where there is room to grow, while inventory could likely be expanded in areas where the business's products are already popular.
+
 
 ### About Me
 Autumn Bilbao  
