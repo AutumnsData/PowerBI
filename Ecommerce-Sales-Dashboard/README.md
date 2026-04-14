@@ -31,7 +31,7 @@ KPI cards, category breakdown donut, and monthly trend with What-If target adjus
 #### 2. Time Analysis
 Yearly performance matrix with conditional formatting + running total vs adjusted target chart.
 
-![Time Analysis](https://github.com/AutumnsData/PowerBI/blob/489091cbb90a1b0033df7d3aa538fdb2203a48c0/Ecommerce-Sales-Dashboard/screenshots/Running%20Total%20Sales%20vs%20Adjusted%20Target%20at%20multiplier%201.5%20(50%25%20stretch%20target).jpg)
+![Time Analysis](https://github.com/AutumnsData/PowerBI/blob/389439faced3977bdb7b9d680d13f706fb04fb83/Ecommerce-Sales-Dashboard/screenshots/Running%20Total%20Sales%20vs%20Adjusted%20Target%20at%20multiplier%201.5%20(50%25%20stretch%20target).jpg)
 
 #### 3. Product Deep Dive
 Top 10 SubCategories by Total Sales and Quantity vs Sales scatter with interactive tooltips.
