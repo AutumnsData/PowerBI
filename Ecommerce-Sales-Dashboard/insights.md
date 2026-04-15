@@ -3,10 +3,10 @@
 
   
 - How are sales accumulating over time, and what happens if we need to hit higher targets?
-- The graph on the Time Analysis page shows how running total sales build up month by month. The total starts over at zero every January, which tells me the business measures performance on a calendar-year basis rather than a rolling 12-month window.
+  - The graph on the Time Analysis page shows how running total sales build up month by month. The total starts over at zero every January, which tells me the business measures performance on a calendar-year basis rather than a rolling 12-month window.
 If the business wants to aim for 50% higher sales, I can slide the Target Multiplier to 1.5. When I do that, the blue area shows actual running total sales, the purple area shows the adjusted target, and the orange line shows the cumulative gap between them.
 For example, in May 2024 the tooltip shows we are already about $2.12 million behind the 1.5x stretch target for the year so far. At that point we had only reached 67% of where we needed to be. This means the business would need significantly stronger sales in the remaining months of 2024 to still hit the full-year stretch goal.
 
 - Which regions/countries are performing best? Where should we focus inventory or marketing efforts?
-- The Regional Performance map shows countries with the highest sales performance in purple, while the countries with the lowest sales performance are in light blue. When hovering over these countries, the tooltip shows the sales performance in each region. As such, it can be seen that the regions with the highest sales performance include South & Central India, North & South Saudia Arabia, and the South & North UK. It may be beneficial to focus inventory efforts in these areas.
-- The regions with the fewest sales include Germany, North America, Egypt,and France. As such, it may be advisable to improve marketing in these regions so that sales can be expanded.
+  - The Regional Performance map shows countries with the highest sales performance in purple, while the countries with the lowest sales performance are in light blue. When hovering over these countries, the tooltip shows the sales performance in each region. As such, it can be seen that the regions with the highest sales performance include South & Central India, North & South Saudia Arabia, and the South & North UK. It may be beneficial to focus inventory efforts in these areas.
+  - The regions with the fewest sales include Germany, North America, Egypt,and France. As such, it may be advisable to improve marketing in these regions so that sales can be expanded.
