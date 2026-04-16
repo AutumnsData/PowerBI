@@ -1,0 +1,11 @@
+In this dashboard, we explore a dataset that includes information about students, including their age and gender, how many hours they study per week, their attendance rate, GPA, Major, whether they hold a part-time job, and whether they participate in ExtraCurricular Activities. 
+
+The first dashboard we generate specifically explores the attendance rate of students based on their gender, and whether having a part time job impacts their attendance and GPA. 
+In order to generate the charts for this dashboard, we first had to calculate the average attendance rate and average GPA from the attendance and GPA data columns.
+
+![]
+The bar chart on the left indicates that the average attendance rate is higher for women than men. 
+
+The bar chart on in the middle shows the Average Attendance rates of students with and without part time jobs split by gender. By comparing the each data point on the graph, we find that women tend to have overall higher attendance rates on average than men. It is also found that, while women without part time jobs have higher attendance on average than women with part time jobs, men with part time jobs actually have slightly higher attendance than men without part time jobs. The difference between the average attendance rates of men with and without part time jobs is negligible, however, which means that attendance rates for men are less impacted by whether they hold a part time job. The difference between average attendance rates of women with and without part time jobs indicates that attendance rates may improve for women if they do not hold a part time job.
+
+The bar chart on the right shows a very surface level analysis on whether GPA is impacted by whether a student holds a part time job. The initial hypothesis was that GPA would decline with the introduction of a part-time position. However, the bar chart shows that the average GPA actually improves when a student holds a part-time position, whether they are male or female. When considering how attendance rate declines in students with part time positions, but GPA improves in students with part time positions, this may indicate that holding a part time position could be beneficial for the student despite how it impacts their attendance rate.
