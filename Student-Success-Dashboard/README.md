@@ -1,9 +1,11 @@
 In this dashboard, we explore a dataset that includes information about students, including their age and gender, how many hours they study per week, their attendance rate, GPA, Major, whether they hold a part-time job, and whether they participate in ExtraCurricular Activities. 
 
 The first dashboard we generate specifically explores the attendance rate of students based on their gender, and whether having a part time job impacts their attendance and GPA. 
+
 In order to generate the charts for this dashboard, we first had to calculate the average attendance rate and average GPA from the attendance and GPA data columns.
 
-![]
+![The Impact of Part Time Jobs on Student Attendance & GPA](https://github.com/AutumnsData/PowerBI/blob/72f261491d47ace9259f6b721a23216b9d48237a/Student-Success-Dashboard/Screenshots/The%20Impact%20of%20Part%20Time%20Jobs%20on%20Student%20Attendance%20%26%20GPA.jpg)
+
 The bar chart on the left indicates that the average attendance rate is higher for women than men. 
 
 The bar chart on in the middle shows the Average Attendance rates of students with and without part time jobs split by gender. By comparing the each data point on the graph, we find that women tend to have overall higher attendance rates on average than men. It is also found that, while women without part time jobs have higher attendance on average than women with part time jobs, men with part time jobs actually have slightly higher attendance than men without part time jobs. The difference between the average attendance rates of men with and without part time jobs is negligible, however, which means that attendance rates for men are less impacted by whether they hold a part time job. The difference between average attendance rates of women with and without part time jobs indicates that attendance rates may improve for women if they do not hold a part time job.
