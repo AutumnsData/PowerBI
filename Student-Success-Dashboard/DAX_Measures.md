@@ -2,10 +2,10 @@
 
 In order to generate the charts for this dashboard, we first had to calculate the average attendance rate and average GPA from the attendance and GPA data columns.
 
-``dax
+```dax
 Average Attendance Rate = AVERAGE(student_performance_data[AttendanceRate])
-``
+```
 
-``dax
+```dax
 Average GPA = AVERAGE(student_performance_data[GPA])
-``
+```
