@@ -1,5 +1,8 @@
+# Student Performance Dashboard
+
 In this dashboard, we explore a dataset that includes information about students, including their age and gender, how many hours they study per week, their attendance rate, GPA, Major, whether they hold a part-time job, and whether they participate in ExtraCurricular Activities. 
 
+## The Impact of Part Time Jobs on Student Attendance & GPA
 The first dashboard we generate specifically explores the attendance rate of students based on their gender, and whether having a part time job impacts their attendance and GPA. 
 
 In order to generate the charts for this dashboard, we first had to calculate the average attendance rate and average GPA from the attendance and GPA data columns.
